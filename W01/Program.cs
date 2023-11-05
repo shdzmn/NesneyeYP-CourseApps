@@ -20,3 +20,5 @@ namespace w01  // maviler kelimeler; keywords
 // 3 - symbols ( [] , {} gibi)
 // 4 - operators ( =,+ gibi)
 // 5 - litearls: Numerical or String
+
+//....
