@@ -75,6 +75,19 @@ namespace w01  // maviler kelimeler; keywords
         Friday,
         Sunday,
     }
+
+    //Example 2
+    class Student
+    {
+        private int no;
+        private string name;
+
+        void ShowName()
+        {
+            //....
+        }
+    }
+
 }
 
 // Tokens;
